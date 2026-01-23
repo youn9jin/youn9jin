@@ -4,9 +4,9 @@
   />
 </div>
 
-<p align="center" style="font-size: 16px; color: #334155;">
-  🎓 Undergraduate Student(IT Management Major) at <b>🇰🇷 SeoulTech</b> <br>
-  & <b>🇬🇧 Northumbria University</b>
+<p style="font-size: 15px; color: #475569; margin-left: 8px;">
+  Undergraduate Student in <b>Information Technology Management</b><br>
+  at <b>Seoul National University of Science and Technology</b> & <b>Northumbria University</b>
 </p>
 
 <br>
