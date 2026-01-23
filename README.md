@@ -1,6 +1,8 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1fdbc5&height=120&text=&animation=&fontColor=000000&fontSize=70" />
-    </div>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20GitHub&section=header&textBg=false&fontColor=0F172A&fontSize=70&fontAlign=50&fontAlignY=51&animation=blink"
+  />
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
