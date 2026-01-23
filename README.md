@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:38BDF8,50:A78BFA,100:00FF9C&text=Welcome%20to%20my%20GitHub&section=header&textBg=false&fontColor=334155&fontSize=70&fontAlign=50&fontAlignY=51&animation=blink"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:38BDF8,50:A78BFA,100:00FF9C&text=Welcome%20to%20my%20GitHub&section=header&textBg=false&fontColor=1E293B&fontSize=70&fontAlign=50&fontAlignY=51&animation=fadeIn"
   />
 </div>
     <div style="text-align: left;">
