@@ -5,7 +5,7 @@
 </div>
 
 <p style="font-size: 15px; color: #475569; margin-left: 8px;">
-  🎓 Undergraduate Student in <b>Information Technology Management</b><br>
+  🎓 Undergraduate Student in <b>IT Management</b><br>
   at <b>Seoul National University of Science and Technology 🇰🇷</b> & <b>Northumbria University 🇬🇧</b>
 </p>
 
