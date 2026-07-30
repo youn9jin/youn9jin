@@ -6,7 +6,11 @@
 
 <p style="font-size: 15px; color: #475569; margin-left: 8px;">
   Undergraduate Student in <b>IT Management</b><br>
-  at <b>Seoul National University of Science and Technology 🇰🇷</b> & <b>Northumbria University 🇬🇧</b>
+  at <b>Seoul National University of Science and Technology 🇰🇷</b> & <b>Northumbria University 🇬🇧</b><br><br>
+
+  🚀 <b>GDG SeoulTech</b> 4th Backend Member<br>
+  📱 <b>GDG SeoulTech</b> 5th App Member<br>
+  ☁️ <b>Kakao Tech Bootcamp</b> Cloud Native Member
 </p>
 
 <br>
